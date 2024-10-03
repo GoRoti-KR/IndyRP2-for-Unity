@@ -1,0 +1,28 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from moveit_msgs/srv/ExecuteKnownTrajectory.srv
+// generated code does not contain a copyright notice
+
+#include "moveit_msgs/msg/MoveItErrorCodes.idl"
+#include "moveit_msgs/msg/RobotTrajectory.idl"
+
+module moveit_msgs {
+  module srv {
+    @verbatim (language="comment", text=
+      "This service is deprecated and will go away at some point. For new development use the ExecuteTrajectory action." "\n"
+      "Effective since: Indigo 0.7.4, Jade and Kinetic 0.8.3")
+    struct ExecuteKnownTrajectory_Request {
+      @verbatim (language="comment", text=
+        "The trajectory to execute")
+      moveit_msgs::msg::RobotTrajectory trajectory;
+
+      @verbatim (language="comment", text=
+        "Set this to true if the service should block until the execution is complete")
+      boolean wait_for_execution;
+    };
+    struct ExecuteKnownTrajectory_Response {
+      @verbatim (language="comment", text=
+        "Error code - encodes the overall reason for failure")
+      moveit_msgs::msg::MoveItErrorCodes error_code;
+    };
+  };
+};
