@@ -54,6 +54,7 @@ Install Indy-ros2 Package [link](https://github.com/neuromeka-robotics/indy-ros2
 ### Commit
 - (October 7, 2024) Visualizes real-time trajectories of real-world IndyRP2 (WSL2-ubuntu22.04) in Unity (Windows 11) [Beta]
 <br/>
+
 ### Plan
 - (---- -, 2024) Control real Robot(Indy RP2) in Unity
 - (---- -. 2025) Reinforcement learning by Unity MLAgent
