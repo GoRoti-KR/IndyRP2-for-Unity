@@ -21,7 +21,7 @@ Figuring out the robot's real-time location is thought to be the starting point 
 | SW | Ver |
 |---|---|
 | OS | Window 11 / WSL2(Ubuntu 22.04) |
-| Unity version | Unity 22.3.28f1++ |
+| Unity version | Unity 22.3.28f1 |
 <br/>
 
 ## Getting Started
