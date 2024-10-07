@@ -3,6 +3,9 @@
 [![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE.md)
 ![ROS](https://img.shields.io/badge/ros2-humble-brightgreen)
 ![Unity](https://img.shields.io/badge/unity-2020.2+-brightgreen)
+<br/>
+![IndyRP2 in Unity](https://github.com/user-attachments/assets/70268b65-3850-4238-981f-52c98a251c70)
+<br/>
 
 This project visualizes real-time trajectories of real-world IndyRP2 (WSL2-ubuntu22.04) in Unity (Windows 11)
 
