@@ -1,4 +1,4 @@
-# IndyRP2-in-Unity
+# IndyRP2-for-Unity
 
 ---
 
@@ -8,16 +8,25 @@
 
 This project visualizes real-time trajectories of real-world IndyRP2 (WSL2-ubuntu22.04) in Unity (Windows 11)
 
-> Indy RP2 Control Reference : https://github.com/neuromeka-robotics/indy-ros2
+> Indy RP2 Control Reference : https://github.com/neuromeka-robotics/indy-ros2 <br/>
 > Unity Side Reference : https://github.com/Unity-Technologies/Unity-Robotics-Hub
 ---
 
 ## Introduction
 Figuring out the robot's real-time location is thought to be the starting point for applying the digital twin in industrial environments. Although Gazbo is used a lot for robot control, we think it would be better to proceed in Unity considering its scalability, so we are going to make simulation SW in Unity for IndyRP2, a cooperative robot.
 
+| SW | Ver |
+|---|---|
+| OS | Window 11 / WSL2(Ubuntu 22.04) |
+| Unity version | Unity 22.3.28f1++ |
+
 
 ## Getting Started
+### [Unity Side (Window 11)] ()
+Used URDF Importer, ROS TCP Connector, ROS TCP Endpoint
 
+### [IndyRP2 Side (WSL2)] ()
+Install Indy-ros2 Package [link](https://github.com/neuromeka-robotics/indy-ros2/blob/humble-indyDCP3/README.md)
 
 
 ## Documentation
