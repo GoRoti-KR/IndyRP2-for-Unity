@@ -1,4 +1,4 @@
-# IndyRP2-for-Unity
+# Neuromeka IndyRP2-for-Unity
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE.md)
 ![ROS](https://img.shields.io/badge/ros2-humble-brightgreen)
@@ -22,6 +22,7 @@ Figuring out the robot's real-time location is thought to be the starting point 
 |---|---|
 | OS | Window 11 / WSL2(Ubuntu 22.04) |
 | Unity version | Unity 22.3.28f1 |
+| Robot | Neuromeka Indy RP2 |
 <br/>
 
 ## Getting Started
