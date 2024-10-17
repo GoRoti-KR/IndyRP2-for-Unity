@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c444d6f85828f1b4f9b89c7c387f9ddd, type: 3}
   m_Name: msgbrowser_settings
   m_EditorClassIdentifier: 
-  inputPath: C:/Develop/Project/SafetySimulation/RoboticsTest/ROS2
+  inputPath: C:/Develop/Project/Digital Twin/IndyRP2inUnity/IndyRP2-in-Unity/ROS2
   relativeOutPath: RosMessages
