@@ -61,5 +61,5 @@ Install Indy-ros2 Package [link](https://github.com/neuromeka-robotics/indy-ros2
 <br/>
 
 ### Plan
-- (---- -, 2024) Control real Robot(Indy RP2) in Unity
+- (---- -, 2025) Control real Robot(Indy RP2) in Unity
 - (---- -. 2025) Reinforcement learning by Unity MLAgent
